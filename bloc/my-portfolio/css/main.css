@@ -113,11 +113,11 @@ footer{
 
 ul.social-bar{
   /* background-color: black; */
-  display: flex; */
-  flex-flow: column;
+  display: flex;
   padding: 3rem 0;
   width: 100%;
   margin: 0 auto;
+  justify-content: center;
 }
 
 a{
@@ -128,7 +128,7 @@ p{
   color: #BA808C;
   font-family: 'Gravity-regular';
   font-size: 1.2rem;
-  padding: 1.2rem 0;
+  padding: 2rem 0;
   float: left;
   text-align: center;
   width: 100%;
